@@ -1,0 +1,6 @@
+mainGUI.py
+.idea
+.cache
+*.txt
+*.csv
+*.csv#
